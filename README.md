@@ -14,4 +14,4 @@ This is basically a fully blown website project made in HTML/CSS with  web pages
  
 
 
-  !! And Note that I haven't made it responsive it only works in laptop screen if you are useing desktop please zomm in or out that might work .
+ 
